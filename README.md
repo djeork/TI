@@ -2,7 +2,9 @@
 
 Este repositorio contiene herramientas y scripts interactivos desarrollados en PowerShell para la instalación masiva, configuración y soporte técnico optimizado de software esencial.
 
-![NOVA TI S.A.C.](https://novati.pe/wp-content/uploads/2026/06/LOGO-2026-06.png)
+<p align="center">
+  <img src="https://novati.pe/wp-content/uploads/2026/06/LOGO-2026-06.png" alt="NOVA TI S.A.C." width="400">
+</p>
 
 ---
 
