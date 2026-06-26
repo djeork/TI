@@ -11,8 +11,6 @@ Este repositorio contiene un script interactivo en PowerShell que te permite des
 
 Para iniciar el asistente interactivo con menú de selección, abre **PowerShell como Administrador** en tu computadora y ejecuta la siguiente línea de comandos:
 
-```powershell
-Set-ExecutionPolicy Bypass -Scope Process -Force; IRM [https://raw.githubusercontent.com/TU_USUARIO/TU_REPOSITORIO/main/instalar.ps1](https://raw.githubusercontent.com/TU_USUARIO/TU_REPOSITORIO/main/instalar.ps1) | IEX
 
 📦 Programas Disponibles en el Menú
 El script abrirá una ventana interactiva (Out-GridView) donde podrás elegir uno o varios de los siguientes componentes para instalar:
@@ -39,6 +37,9 @@ Visor de PDF con parámetros de optimización comercial.
 Windows 10 o Windows 11.
 
 Conexión estable a Internet (para la descarga desde Google Drive).
+
+```powershell
+Set-ExecutionPolicy Bypass -Scope Process -Force; IRM [https://raw.githubusercontent.com/TU_USUARIO/TU_REPOSITORIO/main/instalar.ps1](https://raw.githubusercontent.com/TU_USUARIO/TU_REPOSITORIO/main/instalar.ps1) | IEX
 
 Permisos de Administrador en el equipo.
 
