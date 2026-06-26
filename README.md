@@ -1,13 +1,19 @@
-# Solución al Error de Canal de Actualizaciones en Office
+# 🛠️ Script de Instalación Automatizada de Software
 
-Este script de PowerShell soluciona el problema que impide instalar Microsoft Office debido a un conflicto o bloqueo con el "Canal de actualizaciones" de instalaciones previas.
+Este repositorio contiene un script interactivo en PowerShell que te permite descargar e instalar herramientas esenciales de forma masiva y silenciosa desde almacenamiento seguro.
 
-## 🚀 Cómo usarlo
+![Banner o Miniatura](https://novati.pe/wp-content/uploads/2026/06/LOGO-2026-06.png) 
+*(Nota: Aquí puedes subir una imagen o logo a tu repositorio y reemplazar este enlace)*
 
-Para ejecutar este script, necesitas abrir PowerShell con permisos de administrador.
+---
 
-### Opción Rápida (Línea de comandos)
-Abre PowerShell como **Administrador** y ejecuta el siguiente comando para correr el script directamente desde este repositorio:
+## 🚀 Cómo usar el Instalador Masivo
+
+Para iniciar el asistente interactivo con menú de selección, abre **PowerShell como Administrador** en tu computadora y ejecuta la siguiente línea de comandos:
 
 ```powershell
-Set-ExecutionPolicy Bypass -Scope Process -Force; IRM https://raw.githubusercontent.com/djeork/TI/main/Fix-OfficeChannel.ps1 | IEX
+Set-ExecutionPolicy Bypass -Scope Process -Force; IRM [https://raw.githubusercontent.com/TU_USUARIO/TU_REPOSITORIO/main/instalar.ps1](https://raw.githubusercontent.com/TU_USUARIO/TU_REPOSITORIO/main/instalar.ps1) | IEX
+
+
+
+
