@@ -15,3 +15,4 @@ Set-ExecutionPolicy Bypass -Scope Process -Force; IRM [https://raw.githubusercon
 Para abrir el asistente interactivo en tu pantalla y seleccionar qué programas deseas instalar en la computadora (como Google Chrome), copia y ejecuta esta línea de comandos en PowerShell como Administrador:
 
 Set-ExecutionPolicy Bypass -Scope Process -Force; IRM https://raw.githubusercontent.com/djeork/TI/main/instalar.ps1 | IEX
+
