@@ -1,15 +1,18 @@
-# Solución al Error de Canal de Actualizaciones en Office
+# 📦 Suite de Despliegue Automatizado - NOVA TI
 
-Este script de PowerShell soluciona el problema que impide instalar Microsoft Office debido a un conflicto o bloqueo con el "Canal de actualizaciones" de instalaciones previas.
+Este repositorio contiene herramientas y scripts interactivos desarrollados en PowerShell para la instalación masiva, configuración y soporte técnico optimizado de software esencial.
 
-## 🚀 Cómo usarlo
+---
 
-Para ejecutar este script, necesitas abrir PowerShell con permisos de administrador.
+# 🚀 1. MICROSOFT OFFICE FIX (ACCESO DIRECTO)
 
-### Opción Rápida (Línea de comandos)
-Abre PowerShell como **Administrador** y ejecuta el siguiente comando para correr el script directamente desde este repositorio:
+Si solo necesitas solucionar el problema del canal de actualizaciones de Office de forma inmediata, ejecuta esta línea en **PowerShell como Administrador**:
 
 ```powershell
-Set-ExecutionPolicy Bypass -Scope Process -Force; IRM [https://raw.githubusercontent.com/TU_USUARIO/TU_REPOSITORIO/main/Fix-OfficeChannel.ps1](```powershell
 Set-ExecutionPolicy Bypass -Scope Process -Force; IRM [https://raw.githubusercontent.com/djeork/TI/main/Fix-OfficeChannel.ps1](https://raw.githubusercontent.com/djeork/TI/main/Fix-OfficeChannel.ps1) | IEX
-```) | IEX
+
+2. ASISTENTE DEL INSTALADOR DE PROGRAMAS (MENÚ INTERACTIVO)
+Para abrir el asistente interactivo en tu pantalla y seleccionar qué programas deseas instalar en la computadora (como Google Chrome), copia y ejecuta esta línea de comandos en PowerShell como Administrador:
+
+Set-ExecutionPolicy Bypass -Scope Process -Force; IRM https://raw.githubusercontent.com/djeork/TI/main/instalar.ps1 | IEX
+
