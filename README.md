@@ -3,7 +3,7 @@
 Este repositorio contiene un script interactivo en PowerShell que te permite descargar e instalar herramientas esenciales de forma masiva y silenciosa desde almacenamiento seguro.
 
 ![Banner o Miniatura](https://novati.pe/wp-content/uploads/2026/06/LOGO-2026-06.png) 
-*(Nota: Aquí puedes subir una imagen o logo a tu repositorio y reemplazar este enlace)*
+
 
 ---
 
