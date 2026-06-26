@@ -10,4 +10,6 @@ Para ejecutar este script, necesitas abrir PowerShell con permisos de administra
 Abre PowerShell como **Administrador** y ejecuta el siguiente comando para correr el script directamente desde este repositorio:
 
 ```powershell
-Set-ExecutionPolicy Bypass -Scope Process -Force; IRM [https://raw.githubusercontent.com/TU_USUARIO/TU_REPOSITORIO/main/Fix-OfficeChannel.ps1](https://raw.githubusercontent.com/TU_USUARIO/TU_REPOSITORIO/main/Fix-OfficeChannel.ps1) | IEX
+Set-ExecutionPolicy Bypass -Scope Process -Force; IRM [https://raw.githubusercontent.com/TU_USUARIO/TU_REPOSITORIO/main/Fix-OfficeChannel.ps1](```powershell
+Set-ExecutionPolicy Bypass -Scope Process -Force; IRM [https://raw.githubusercontent.com/djeork/TI/main/Fix-OfficeChannel.ps1](https://raw.githubusercontent.com/djeork/TI/main/Fix-OfficeChannel.ps1) | IEX
+```) | IEX
