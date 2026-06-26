@@ -1,19 +1,6 @@
-# 🛠️ Script de Instalación Automatizada de Software
+## 🚀 Microsoft Office Fix (Acceso Directo)
 
-Este repositorio contiene un script interactivo en PowerShell que te permite descargar e instalar herramientas esenciales de forma masiva y silenciosa desde almacenamiento seguro.
-
-![Banner o Miniatura](https://novati.pe/wp-content/uploads/2026/06/LOGO-2026-06.png) 
----
-## 🚀 Microsoft Fix
-
-Para iniciar el asistente interactivo con menú de selección, abre **PowerShell como Administrador** en tu computadora y ejecuta la siguiente línea de comandos:
+Si solo necesitas solucionar el problema del canal de actualizaciones de Office de forma inmediata, ejecuta esta línea en **PowerShell como Administrador**:
 
 ```powershell
-Set-ExecutionPolicy Bypass -Scope Process -Force; IRM https://raw.githubusercontent.com/djeork/TI/main/Fix-OfficeChannel.ps1 | IEX
-
-## 🚀 Cómo usar el Instalador Masivo
-
-Para iniciar el asistente interactivo con menú de selección, abre **PowerShell como Administrador** en tu computadora y ejecuta la siguiente línea de comandos:
-
-```powershell
-Set-ExecutionPolicy Bypass -Scope Process -Force; IRM [https://raw.githubusercontent.com/djeork/TI/main/instalar.ps1](https://raw.githubusercontent.com/djeork/TI/main/instalar.ps1) | IEX
+Set-ExecutionPolicy Bypass -Scope Process -Force; IRM [https://raw.githubusercontent.com/djeork/TI/main/Fix-OfficeChannel.ps1](https://raw.githubusercontent.com/djeork/TI/main/Fix-OfficeChannel.ps1) | IEX
