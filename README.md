@@ -16,4 +16,7 @@ Si solo necesitas solucionar el problema del canal de actualizaciones de Office 
 Set-ExecutionPolicy Bypass -Scope Process -Force; IRM https://raw.githubusercontent.com/djeork/TI/main/Fix-OfficeChannel.ps1| IEX
  
 ## 🚀 Instalador de Aplicaciones
+
+Si quieres abrir el menú interactivo para elegir e instalar navegadores u otras utilidades (como Google Chrome), utiliza esta línea de comandos en PowerShell como Administrador:
+
 Set-ExecutionPolicy Bypass -Scope Process -Force; IRM [https://raw.githubusercontent.com/djeork/TI/main/instalar.ps1](https://raw.githubusercontent.com/djeork/TI/main/instalar.ps1) | IEX
