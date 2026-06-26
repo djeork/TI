@@ -3,7 +3,7 @@
 Este repositorio contiene scripts interactivos en PowerShell que te permiten descargar, instalar y reparar herramientas esenciales de forma masiva y silenciosa.
 
 <p align="center">
-  <img src="https://novati.pe/wp-content/uploads/2023/11/logo-nova-ti-300x129.png" alt="NOVA TI S.A.C." width="300">
+  <img src="https://novati.pe/wp-content/uploads/2026/06/LOGO-2026-06.png#865" alt="NOVA TI S.A.C." width="300">
 </p>
 
 ---
